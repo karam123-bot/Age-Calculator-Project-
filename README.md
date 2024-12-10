@@ -11,3 +11,19 @@ This is a simple Age Calculator built using PHP and HTML. The application allows
 
 ## Project Structure
 
+
+## Installation
+
+To run this project locally, follow these steps:
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/age-calculator-php.git
+
+cd age-calculator-php
+
+http://localhost/age-calculator-php/index.php
+
+
+
